@@ -16,7 +16,7 @@ Részletes osztályleírás: [dokumentáció](KIRÁLY_CSOMBOR_HH1XLH_DOK.pdf)
 
 <img src="https://github.com/kcsombi/Snake/blob/master/screenshots/snake1.png" alt="alt text">
 
-<img src="https://github.com/kcsombi/Snake/blob/master/screenshots/snake2.png" alt="alt text"><img src="https://github.com/kcsombi/Snake/blob/master/screenshots/snake3.png" alt="alt text">
+<img src="https://github.com/kcsombi/Snake/blob/master/screenshots/snake2.png" alt="alt text"> <img src="https://github.com/kcsombi/Snake/blob/master/screenshots/snake3.png" alt="alt text">
 
-<img src="https://github.com/kcsombi/Snake/blob/master/screenshots/snake4.png" alt="alt text"><img src="https://github.com/kcsombi/Snake/blob/master/screenshots/snake5.png" alt="alt text">
+<img src="https://github.com/kcsombi/Snake/blob/master/screenshots/snake4.png" alt="alt text"> <img src="https://github.com/kcsombi/Snake/blob/master/screenshots/snake5.png" alt="alt text">
 
