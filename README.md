@@ -1,14 +1,12 @@
 # Snake
 
-Az eredeti snake játék másolata java nyelven.
+Egyszerű snake játék java nyelven.
 
-A játékot a space billentyű lenyomásával lehet megállítani.
+A játékot el lehet menteni, és később visszatölteni.  
+5 pályaméret és 5 sebesség közül lehet választani.  
+A játék az első 5 rekordot tárolja.  
+A játékot a nyilakkal lehet irányítani és folytatni, megállítani pedig a space billentyűvel lehet.
 
-A nyilakkal lehet irányítani, illetve folytatni megállított játékot.
-
-5 különböző játékméret és 5 különböző játéksebesség közül lehet választani.
-Az első 5 rekordot tárolja
-A játékot el lehet menteni, és visszatölteni.
 
 Részletes osztályleírás: [dokumentáció](KIRÁLY_CSOMBOR_HH1XLH_DOK.pdf)
 
